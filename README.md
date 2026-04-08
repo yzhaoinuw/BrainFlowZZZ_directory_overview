@@ -5,6 +5,7 @@ This is a shared archive for the Nedergaard lab's sleep-neuroscience project (ro
 
 ---
 
+<!-- BEGIN:data-at-a-glance -->
 ## Data at a glance
 
 | Data type | Count | Folders |
@@ -13,7 +14,9 @@ This is a shared archive for the Nedergaard lab's sleep-neuroscience project (ro
 | Two-photon TIF image stacks | 57 | `CSD-TIF-Files/`, `CSD_Lymphatic_longBL/`, `CSD_Lymphatic_longBL_vs2/`, `VesselDiameterVerena/` |
 
 ---
+<!-- END:data-at-a-glance -->
 
+<!-- BEGIN:quick-lookup -->
 ## Quick lookup by topic
 
 | I'm looking for… | Go to |
@@ -30,9 +33,11 @@ This is a shared archive for the Nedergaard lab's sleep-neuroscience project (ro
 | Viral tool core files / Alphafold predictions | `Viral_Tool_Core/` |
 
 ---
+<!-- END:quick-lookup -->
 
 ## Folder-by-folder descriptions
 
+<!-- BEGIN:eeg-emg -->
 ### EEG & EMG raw recordings
 
 **`eeg1/`** *(5.5 GB, 11 sessions)*  
@@ -54,7 +59,9 @@ EEG + EMG recordings collected with NE photometry, uploaded November 2024. Conta
 NE-scored EEG/EMG data, also uploaded November 2024. Subfolders: `Anastasia_scored_data/`, `Klaudia/`.
 
 ---
+<!-- END:eeg-emg -->
 
+<!-- BEGIN:code-toolboxes -->
 ### Code & toolboxes
 
 **`EEGtoolbox/`** *(1.7 MB)*  
@@ -95,7 +102,9 @@ A mixed folder of newer experimental data and preprocessing code added in 2023 f
 - `list_content.py` — utility to list directory contents
 
 ---
+<!-- END:code-toolboxes -->
 
+<!-- BEGIN:imaging -->
 ### Imaging data
 
 **`CSD-TIF-Files/`** *(177 GB)*  
@@ -117,7 +126,9 @@ Astrocyte endfoot morphology and vascular labeling data:
 Storage folder for Viral Tool Core shared files and Alphafold structure predictions. Currently contains only an `Alphafold_Prediction/` subfolder.
 
 ---
+<!-- END:imaging -->
 
+<!-- BEGIN:file-formats -->
 ### File format reference (Viewpoint recording system)
 
 | Extension | Contents | Used? |
@@ -132,7 +143,9 @@ Storage folder for Viral Tool Core shared files and Alphafold structure predicti
 | `.avi` | Video recording | Sometimes |
 
 ---
+<!-- END:file-formats -->
 
+<!-- BEGIN:misc-root -->
 ### Miscellaneous files in root
 
 | File | Description |
@@ -146,8 +159,11 @@ Storage folder for Viral Tool Core shared files and Alphafold structure predicti
 | `M8_baseline.tif`, `M8_csd.tif`, `M8_kcl.tif` | Loose TIF files for mouse M8 (baseline, CSD, KCl) |
 
 ---
+<!-- END:misc-root -->
 
+<!-- BEGIN:experimenter-folders -->
 ### Experimenter folders
 
 Personal folders for: `AaronTran/`, `devinwong/`, `fazla/` / `Fazla/`, `Felix/`, `jaysenSS/`, `Marta1/`, `Marta2/`, `marta_nwb/`, `Mike_G/`, `Mike_G-OLD/`, `New_data_by_Zuzanna_repeat_recording/`, `Tina/`, `Velia/`, `Yue/`.  
 Contents vary — typically raw recordings, processed data, or analysis scripts specific to that person's experiments.
+<!-- END:experimenter-folders -->
