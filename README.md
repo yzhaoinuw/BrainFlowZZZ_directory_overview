@@ -156,7 +156,6 @@ Storage folder for Viral Tool Core shared files and Alphafold structure predicti
 | `print_directory_content.sh` | Shell script to print folder tree |
 | `gpu_debugging_example.sh` | Example GPU debugging script |
 | `sleep_scoring_sample_data_20230615.zip` | Sample data package for sleep scoring (June 2023) |
-| `test_auto_update.txt` | Test file for automated directory updates |
 | `M8_baseline.tif`, `M8_csd.tif`, `M8_kcl.tif` | Loose TIF files for mouse M8 (baseline, CSD, KCl) |
 
 ---
