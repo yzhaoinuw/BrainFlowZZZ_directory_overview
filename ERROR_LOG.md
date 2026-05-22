@@ -1,3 +1,9 @@
+## 2026-05-22
+
+- Claude output had no recognizable <!-- BEGIN:tag --> markers, so no README sections were updated. Output preview:  
+
+---
+
 ## 2026-05-08
 
 - Claude output had no recognizable <!-- BEGIN:tag --> markers, so no README sections were updated. Output preview: Based on the diff provided (which shows no changes since this is the first run with no previous snapshot), there are **no sections to update**. The current content in the README is: - **EEG/EMG recor
