@@ -1,5 +1,7 @@
 # DATA_OVERVIEW.md
 
+[![Agent Collab Treaty](https://raw.githubusercontent.com/yzhaoinuw/agent_collab_treaty/main/assets/treaty-adopted.svg)](https://github.com/yzhaoinuw/agent_collab_treaty)
+
 Natural-language index of `/gpfs/fs3/archive/dkell12_lab/BrainFlowZZZ/`.  
 This is a shared archive for the Nedergaard lab's sleep-neuroscience project (rodent EEG/EMG, LFP, fiber photometry, two-photon imaging, CSD). Use this file to quickly locate data or code before digging into subfolders.
 
