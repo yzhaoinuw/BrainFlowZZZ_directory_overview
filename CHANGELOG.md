@@ -1,3 +1,36 @@
+## 2026-06-12
+
+- `sleep_scoring/` — added (*shared data*)
+
+---
+
+## 2026-05-22
+
+- `Mike_G/` — added (*Mike_G*)
+
+---
+
+## 2026-05-06
+
+- `Fazla/` — modified (*Fazla*)
+- `Yue/` — modified (*Yue*)
+
+---
+
+## 2026-04-29
+
+- `Fazla/` — modified (*Fazla*)
+- `Mike_G/` — modified (*Mike_G*)
+- `Yue/` — modified (*Yue*)
+
+---
+
+## 2026-04-22
+
+- `Yue/` — modified (*Yue*)
+
+---
+
 ## 2026-04-15
 
 - `Mike_G/` — modified (*Mike_G*)
