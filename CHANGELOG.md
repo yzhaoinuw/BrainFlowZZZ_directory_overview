@@ -1,3 +1,11 @@
+## 2026-06-19
+
+- `Yue/` — added (*Yue*)
+- `sleep_scoring/` — removed (*shared data*)
+- `sleep_scoring_model_training/` — removed (*shared data*)
+
+---
+
 ## 2026-06-12
 
 - `sleep_scoring/` — added (*shared data*)

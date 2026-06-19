@@ -27,7 +27,7 @@ This is a shared archive for the Nedergaard lab's sleep-neuroscience project (ro
 | EEG/EMG + norepinephrine (NE) recordings | `EEG_NE/`, `EEG_NE_ASCII/`, `data_eeg_emg_241114/`, `data_eeg_emg_ne_241114/` |
 | MATLAB tools to read `.exp` / `.bin` / `.xls` recording files | `EEGtoolbox/` |
 | Automated sleep staging (model training) | `sleep_scoring_model_training/` |
-| Automated sleep staging (inference/deployment) | `sleep_scoring/` |
+| Automated sleep staging (inference/deployment) | `Yue/sleep_scoring/` |
 | New data uploaded to test/extend the sleep model (2023) | `20231006_new_data_for_testing_the_model/` |
 | Converting any recording to NWB format | `make_nwb/` |
 | CSD (cortical spreading depression) TIF images | `CSD-TIF-Files/`, `CSD_Lymphatic_longBL/`, `CSD_Lymphatic_longBL_vs2/` |
@@ -81,7 +81,7 @@ Add this folder to the MATLAB path before working with any Viewpoint files.
 **`make_nwb/`** *(61 MB)*  
 MATLAB scripts for converting lab recordings to NWB (Neurodata Without Borders) format. Contains person-specific conversion scripts (`felix2nwb.m`, `marta12nwb.m`, `michael2nwb.m`, `kim2nwb.m`, `keelin2nwb_raw.m`, `tiffs2nwb.m`) and utilities (`read_abf.m`, `readExperiment.m`, `read_tiff.m`, `read_nwb.m`, `write_nwb.m`). Depends on the `matnwb/` and `npy-matlab/` libraries included in the folder.
 
-**`sleep_scoring/`** *(5.7 MB)*  
+**`Yue/sleep_scoring/`** *(5.7 MB)*  
 Python package for automated sleep stage classification (inference/deployment). Built on the sDREAMER model trained in `sleep_scoring_model_training/`. Contains:
 - `app_src/` — application source code
 - `models/` — trained model weights and configurations
