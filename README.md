@@ -32,6 +32,7 @@ This is a shared archive for the Nedergaard lab's sleep-neuroscience project (ro
 | Converting any recording to NWB format | `make_nwb/` |
 | CSD (cortical spreading depression) TIF images | `CSD-TIF-Files/`, `CSD_Lymphatic_longBL/`, `CSD_Lymphatic_longBL_vs2/` |
 | Vessel / artery diameter analysis from TIF | `VesselDiameterVerena/` |
+| Perivascular space (PVS) analysis and measurements | `AaronTran/PVS vs Distance/` |
 | Astrocyte endfoot geometry & AQP4/MLC1 imaging | `EndfootGeometry/` |
 | Viral tool core files / Alphafold predictions | `Viral_Tool_Core/` |
 
