@@ -1,3 +1,15 @@
+## 2026-10-30
+
+- `Yue/` — added (*Yue*)
+
+---
+
+## 2026-10-23
+
+- `Yue/` — added (*Yue*)
+
+---
+
 ## 2026-09-11
 
 - `AaronTran/` — added (*AaronTran*)

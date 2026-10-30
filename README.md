@@ -14,6 +14,7 @@ This is a shared archive for the Nedergaard lab's sleep-neuroscience project (ro
 |---|---|---|
 | EEG/EMG recordings (`.exp` files) | 92 | `eeg1/`, `eeg2/`, `EEG_NE/`, `EEG_NE_ASCII/`, `data_eeg_emg_241114/`, `data_eeg_emg_ne_241114/` |
 | Two-photon TIF image stacks | 57 | `CSD-TIF-Files/`, `CSD_Lymphatic_longBL/`, `CSD_Lymphatic_longBL_vs2/`, `VesselDiameterVerena/` |
+| Fiber photometry recordings | 3 | `Yue/48H_GLU_FP/`, `Yue/48H_SAL_FP/`, `Yue/48H_Glucose_RZ10-2_COM13(A)_COM12(C)/` |
 
 ---
 <!-- END:data-at-a-glance -->
@@ -35,6 +36,7 @@ This is a shared archive for the Nedergaard lab's sleep-neuroscience project (ro
 | Perivascular space (PVS) analysis and measurements | `AaronTran/PVS vs Distance/` |
 | Astrocyte endfoot geometry & AQP4/MLC1 imaging | `EndfootGeometry/` |
 | Viral tool core files / Alphafold predictions | `Viral_Tool_Core/` |
+| Fiber photometry (glucose + saline conditions, 48H experiments) | `Yue/48H_GLU_FP/`, `Yue/48H_SAL_FP/`, `Yue/48H_Glucose_RZ10-2_COM13(A)_COM12(C)/` |
 
 ---
 <!-- END:quick-lookup -->
